@@ -26,8 +26,8 @@ body{
         text-shadow: 0 0 12px #fbff00, 0 0 50px #fbff00, 0 0 100px #fbff00;
     }
     10%, 90%{
-        color: #696565;
-        text-shadow: none;
+        color: #ec8181;
+        text-shadow: 2px 2px 4px rgba(253, 253, 253, 0.9);
     }
 }
 .greetings > span:nth-child(2){
